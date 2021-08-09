@@ -1,9 +1,3 @@
-//Edwin Asitimbay
-//CIS-277-601HY
-//Due May 1st 2020
-//Prof. Aljamal
-//04-26-2020
-
 #include <iostream>
 
 
